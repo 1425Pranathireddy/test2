@@ -35,6 +35,8 @@ Upon completion, the Online Shoe Store Website Project will deliver:
 3. Detailed documentation outlining the website's features, functionalities, and deployment instructions.
 4. Ongoing maintenance and support to address any issues, implement updates, and enhance the website based on user feedback.
 
+**Live Website Link**
+Link:https://onlineshoestore.netlify.app/
 **Significance:**
 
 The Online Shoe Store Website Project holds significant importance in the following aspects:
